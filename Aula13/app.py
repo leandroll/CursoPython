@@ -3,6 +3,8 @@
 #\na app em uso: entrar na pasta do arquivo que vai usar a lib e digitar
 # pip install beautifulsoup4 -t ./libs
 # remover um pacote subistituir install por unistall
+#pode tambem criar um arquivo com o nome exemplo requirements.txt e fazer como acima subistituindo o beautifulsoup4 
+#por ele no comando e nele pode aver N pacotes listados, todos serão instalados 
 import tools 
 
 print(tools.PI)
