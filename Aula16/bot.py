@@ -26,7 +26,7 @@ def main():
     dp.add_handler(MessageHandler(filters.Text, handle_message))
     dp.add_error_handler(error)
 
-    update.start_polling
+    update.start_polling()
     update.idle()
 
     main()
