@@ -1,0 +1,1 @@
+API_KEY= "api hey, fornecida pelo bot no instagram"
