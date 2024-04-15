@@ -16,4 +16,3 @@ na sequencia nos vamos criar nossas credenciais, para isso antes nos precisamos 
 - ID do Cliente OAUTH
 - segue as instruções
 - copia o client_id e a secret_key
-
